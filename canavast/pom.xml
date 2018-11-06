@@ -4,10 +4,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   
-  <groupId>com.canavast</groupId>
-  <artifactId>fullhouse</artifactId>
+  <groupId>fullhouse</groupId>
+  <artifactId>canavast</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>fullhouse Webapp</name>
+  <name>canavast Webapp</name>
   <url>http://www.canavast.com</url>
   <packaging>war</packaging>
 
@@ -37,7 +37,7 @@
   </dependencies>
 
   <build>
-    <finalName>fullhouse</finalName>
+    <finalName>canavast</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
