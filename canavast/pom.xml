@@ -10,6 +10,12 @@
   <name>canavast Webapp</name>
   <url>http://www.canavast.com</url>
   <packaging>war</packaging>
+  
+  <scm>
+    <url>https://github.com/utsa-user-interfaces/FullHouse</url>
+    <connection>scm:git:git://github.com/utsa-user-interfaces/FullHouse.git</connection>
+    <developerConnection>scm:git:git@github.com/utsa-user-interfaces/FullHouse.git</developerConnection>
+  </scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
